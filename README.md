@@ -1,2 +1,3 @@
-# landing-velvora-ui
-Landing page for Velvora
+# Landing page for Velvora
+
+[Visit the Landing Page](https://ketan1406.github.io/landing-velvora-ui/)
