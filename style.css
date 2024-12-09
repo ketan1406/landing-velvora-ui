@@ -193,10 +193,8 @@ h2 {
 .social {
   top: 90%;
   left: 20%;
-  font-size: 80px;
 }
 
 .social a i {
-  inline-size : 80px; /* Set a larger size for the icons */
   display: inline-block; /* Ensures proper rendering of icons */
 }
